@@ -23,7 +23,7 @@ Universidad Rovira i Virgili [URV]
 
 Institut de Paleocologia Humana i Evolució Social [IPHES]
 
-Universidad Complutense de Madrid [UCM]
+TIDOP Group of the Department of Cartographic and Land Engineering (TIDOP)
 </i>
 
 ---------------------------------------------------------------------------------------------------
