@@ -18,12 +18,11 @@ ORCID
 https://orcid.org/0000-0002-4810-2001
 
 Current Afiliations:
+TIDOP Group of the Department of Cartographic and Land Engineering (TIDOP)
 
 Universidad Rovira i Virgili [URV]
 
 Institut de Paleocologia Humana i Evolució Social [IPHES]
-
-TIDOP Group of the Department of Cartographic and Land Engineering (TIDOP)
 </i>
 
 ---------------------------------------------------------------------------------------------------
@@ -42,7 +41,7 @@ Please cite these codes as:
 --------------------------------------------------------
 
 This code was designed and prepared for the study by:
-<b> Courtenay, L.A.; Yravedra, J.; Huguet, R.; Domínguez-Rodrigo, M., A Hybrid Geometric Morphometric Deep Learning Approach for Cut and Trampling Mark Classification, submitted to Science Advances. </b>
+<b> Courtenay, L.A.; Huguet, R.; González-Aguilera, D.; Yravedra, J. (2019) A Hybrid Geometric Morphometric Deep Learning Approach for Cut and Trampling Mark Classification, Applied Sciences. DOI: 10.3390/app10010150. </b>
 
 ------------------------------------------------------------
 Comments, questions, doubts, suggestions and corrections can all be directed to L. A. Courtenay at the email provided above.
